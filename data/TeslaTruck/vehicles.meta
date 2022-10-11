@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfo__InitDataList xmlns:xi="http://www.w3.org/2001/XInclude">
+  <residentTxd>vehshare</residentTxd>
+  <residentAnims />
+  <InitDatas>
+		<xi:include href="dlc_spsavanna:/common/data/levels/gta5/vehicles/aa42f76f.meta" xpointer="xpointer(/CVehicleModelInfo__InitDataList/InitDatas/Item)" />
+  </InitDatas>
+  <txdRelationships>
+    <xi:include href="dlc_spsavanna:/common/data/levels/gta5/vehicles/aa42f76f.meta" xpointer="xpointer(/CVehicleModelInfo__InitDataList/txdRelationships/Item)" />
+  </txdRelationships>
+</CVehicleModelInfo__InitDataList>
