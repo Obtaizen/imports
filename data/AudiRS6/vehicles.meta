@@ -11,8 +11,8 @@
       <vehicleMakeName>audi</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
-      <animConvRoofDictName>va_audirs6tk</animConvRoofDictName>
-      <animConvRoofName>roof</animConvRoofName>
+      <animConvRoofDictName>null</animConvRoofDictName>
+      <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
       <audioNameHash>schwarzer</audioNameHash>
@@ -26,27 +26,27 @@
       <povCameraName>DEFAULT_POV_CAMERA_LOOKAROUND_MID</povCameraName>
       <FirstPersonDriveByIKOffset x="0.000000" y="-0.055000" z="0.000000" />
       <FirstPersonDriveByUnarmedIKOffset x="0.000000" y="-0.170000" z="-0.020000" />
-      <FirstPersonProjectileDriveByIKOffset x="0.000000" y="0.000000" z="0.000000" />
-      <FirstPersonProjectileDriveByPassengerIKOffset x="0.000000" y="0.000000" z="0.000000" />
-      <FirstPersonProjectileDriveByRearLeftIKOffset x="0.000000" y="0.020000" z="-0.020000" />
-      <FirstPersonProjectileDriveByRearRightIKOffset x="0.000000" y="0.020000" z="-0.020000" />
-      <FirstPersonDriveByLeftPassengerIKOffset x="0.000000" y="0.000000" z="0.000000" />
-      <FirstPersonDriveByRightPassengerIKOffset x="0.000000" y="-0.055000" z="-0.030000" />
-      <FirstPersonDriveByRightRearPassengerIKOffset x="0.000000" y="0.000000" z="0.000000" />
-      <FirstPersonDriveByLeftPassengerUnarmedIKOffset x="0.000000" y="0.000000" z="0.000000" />
-      <FirstPersonDriveByRightPassengerUnarmedIKOffset x="0.000000" y="0.000000" z="0.000000" />
-      <FirstPersonMobilePhoneOffset x="0.125000" y="0.253000" z="0.445000" />
+	  <FirstPersonProjectileDriveByIKOffset x="0.000000" y="0.000000" z="0.000000" />
+	  <FirstPersonProjectileDriveByPassengerIKOffset x="0.000000" y="0.000000" z="0.000000" />
+	  <FirstPersonProjectileDriveByRearLeftIKOffset x="0.000000" y="0.020000" z="-0.020000" />
+	  <FirstPersonProjectileDriveByRearRightIKOffset x="0.000000" y="0.020000" z="-0.020000" />
+	  <FirstPersonDriveByLeftPassengerIKOffset x="0.000000" y="0.000000" z="0.000000" />
+	  <FirstPersonDriveByRightPassengerIKOffset x="0.000000" y="-0.055000" z="-0.030000" />
+	  <FirstPersonDriveByRightRearPassengerIKOffset x="0.000000" y="0.000000" z="0.000000" />
+	  <FirstPersonDriveByLeftPassengerUnarmedIKOffset x="0.000000" y="0.000000" z="0.000000" />
+	  <FirstPersonDriveByRightPassengerUnarmedIKOffset x="0.000000" y="0.000000" z="0.000000" />
+	  <FirstPersonMobilePhoneOffset x="0.125000" y="0.253000" z="0.445000" />
       <FirstPersonPassengerMobilePhoneOffset x="0.136000" y="0.223000" z="0.385000" />
-      <FirstPersonMobilePhoneSeatIKOffset>
-        <Item>
-            <Offset x="0.136000" y="0.146000" z="0.445000" />
-            <SeatIndex value="2" />
-        </Item>
-        <Item>
-            <Offset x="0.136000" y="0.146000" z="0.445000" />
-            <SeatIndex value="3" />
-        </Item>
-      </FirstPersonMobilePhoneSeatIKOffset> 
+	  <FirstPersonMobilePhoneSeatIKOffset>
+		<Item>
+			<Offset x="0.136000" y="0.146000" z="0.445000" />
+			<SeatIndex value="2" />
+		</Item>
+		<Item>
+			<Offset x="0.136000" y="0.146000" z="0.445000" />
+			<SeatIndex value="3" />
+		</Item>
+	  </FirstPersonMobilePhoneSeatIKOffset> 
       <PovCameraOffset x="0.000000" y="-0.145000" z="0.585000" />
       <PovCameraVerticalAdjustmentForRollCage value="0.000000" />
       <PovPassengerCameraOffset x="0.000000" y="0.000000" z="0.070000" />
@@ -75,9 +75,9 @@
       <lodDistances content="float_array">
         15.000000
         30.000000
-        50.000000   
-        100.000000  
-        500.000000  
+        50.000000	
+        100.000000	
+        500.000000	
         500.000000
       </lodDistances>
       <minSeatHeight value="0.858" />
@@ -94,7 +94,7 @@
       <flags>FLAG_HAS_LIVERY FLAG_PARKING_SENSORS</flags>
       <type>VEHICLE_TYPE_CAR</type>
       <plateType>VPT_FRONT_AND_BACK_PLATES</plateType>
-      <dashboardType>VDT_RACE</dashboardType>
+	  <dashboardType>VDT_RACE</dashboardType>
       <vehicleClass>VC_SEDAN</vehicleClass>
       <wheelType>VWT_SPORT</wheelType>
       <trailers />
@@ -117,7 +117,7 @@
       <buoyancySphereOffset x="0.000000" y="0.000000" z="0.000000" />
       <buoyancySphereSizeScale value="1.000000" />
       <pOverrideRagdollThreshold type="NULL" />
-      <firstPersonDrivebyData>
+	  <firstPersonDrivebyData>
         <Item>STD_INGOT_FRONT_LEFT</Item>
         <Item>STD_EXEMPLAR_FRONT_RIGHT</Item>
         <Item>STD_EXEMPLAR_REAR_LEFT</Item>

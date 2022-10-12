@@ -3,7 +3,7 @@
 <CHandlingDataMgr>
   <HandlingData>
 <Item type="CHandlingData">
-      <handlingName>audirs6tk</handlingName>
+      <handlingName>AUDIRS6TK</handlingName>
       <fMass value="2025" />
       <fInitialDragCoeff value="2.7" />
       <fPercentSubmerged value="85" />

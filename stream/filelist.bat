@@ -1,0 +1,1 @@
+dir /B /AD > filelist.txt
