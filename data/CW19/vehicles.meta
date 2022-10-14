@@ -15,7 +15,7 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-	  <audioNameHash>CW2019</audioNameHash>
+	    <audioNameHash>CW2019</audioNameHash>
       <layout>LAYOUT_LOW_CW2019</layout>
       <coverBoundOffsets>LE7B_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
