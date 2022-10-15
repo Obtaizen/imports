@@ -5,7 +5,8 @@ Import Vehicles
 
 * Drag [car-sounds] into your `resources` folder
 * Ensure [car-sounds] in your Server CFG
-* Add this to your qb-core/shared/vehicles.lua
+* Make sure you add the vehicles to your core (if using QBCore) qb-core/shared/vehicles.lua
+I made a .txt with the snippet of cars to make it easier so you can copy + paste them into your vehicles.lua
 
 ### A bunch of vehicles that NoPixel use.
 
