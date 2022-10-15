@@ -4,9 +4,9 @@
   <residentAnims />
   <InitDatas>
     <Item>
-      <modelName>Skyline</modelName>
-      <txdName>Skyline</txdName>
-      <handlingId>Skyline</handlingId>
+      <modelName>skyline</modelName>
+      <txdName>skyline</txdName>
+      <handlingId>skyline</handlingId>
       <gameName>SkylineGTR</gameName>
       <vehicleMakeName>Nissan</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
