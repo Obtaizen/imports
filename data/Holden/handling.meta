@@ -1,3 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHandlingDataMgr>
+  <HandlingData>
     <Item type="CHandlingData">
       <handlingName>asea2</handlingName>
       <fMass value="1800.000000" />
@@ -58,3 +61,6 @@
         <Item type="NULL" />
         <Item type="NULL" />
       </SubHandlingData>
+    </Item>
+  </HandlingData>
+</CHandlingDataMgr>
