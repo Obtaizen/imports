@@ -1,7 +1,7 @@
-<modelName>asea</modelName>
-<txdName>asea</txdName>
-<handlingId>ASEA</handlingId>
-<gameName>ASEA</gameName>
+<modelName>asea2</modelName>
+<txdName>asea2</txdName>
+<handlingId>asea2</handlingId>
+<gameName>asea2</gameName>
 <vehicleMakeName>DECLASSE</vehicleMakeName>
 <expressionDictName>null</expressionDictName>
 <expressionName>null</expressionName>
@@ -11,7 +11,7 @@
 <ptfxAssetName>null</ptfxAssetName>
 <audioNameHash>sultan</audioNameHash>
 <layout>LAYOUT_STANDARD</layout>
-<coverBoundOffsets>ASEA_COVER_OFFSET_INFO</coverBoundOffsets>
+<coverBoundOffsets>asea2_COVER_OFFSET_INFO</coverBoundOffsets>
 <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
 <scenarioLayout />
 <cameraName>DEFAULT_FOLLOW_VEHICLE_CAMERA</cameraName>
@@ -112,14 +112,14 @@
 <buoyancySphereSizeScale value="1.000000" />
 <pOverrideRagdollThreshold type="NULL" />
 <firstPersonDrivebyData>
-<Item>STD_ASEA_FRONT_LEFT</Item>
+<Item>STD_asea2_FRONT_LEFT</Item>
 <Item>STD_ISSI_FRONT_RIGHT</Item>
-<Item>STD_ASEA_REAR_LEFT</Item>
-<Item>STD_ASEA_REAR_RIGHT</Item>
+<Item>STD_asea2_REAR_LEFT</Item>
+<Item>STD_asea2_REAR_RIGHT</Item>
 </firstPersonDrivebyData>
 
 ------------------------------------------------------------
 <parent>vehshare</parent>
 
 <parent>vehicles_supergt_interior</parent>
-<child>asea</child>
+<child>asea2</child>

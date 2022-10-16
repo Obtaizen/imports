@@ -1,5 +1,5 @@
     <Item type="CHandlingData">
-      <handlingName>ASEA</handlingName>
+      <handlingName>asea2</handlingName>
       <fMass value="1800.000000" />
       <fInitialDragCoeff value="6.000000" />
       <fPercentSubmerged value="85.000000" />

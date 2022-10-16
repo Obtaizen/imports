@@ -2,12 +2,12 @@
 <CVehicleModelInfoVarGlobal>    
   <Kits>
     <Item>
-      <kitName>998_skyline_modkit</kitName>
+      <kitName>998_gtrr34_modkit</kitName>
       <id value="998" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
         <Item>
-          <modelName>skyline_spoil_1</modelName>
+          <modelName>gtrr34_spoil_1</modelName>
           <modShopLabel>Top Secret</modShopLabel>
           <linkedModels />
           <turnOffBones>
@@ -24,8 +24,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>skyline_skirt1</modelName>
-          <modShopLabel>skyline_SKIRT1</modShopLabel>
+          <modelName>gtrr34_skirt1</modelName>
+          <modShopLabel>gtrr34_SKIRT1</modShopLabel>
           <linkedModels />
           <turnOffBones>
             <Item>misc_b</Item> 
@@ -41,8 +41,8 @@
           <allowBonnetSlide value="true" />
         </Item>
 	<Item>
-          <modelName>skyline_skirt2</modelName>
-          <modShopLabel>skyline_SKIRT2</modShopLabel>
+          <modelName>gtrr34_skirt2</modelName>
+          <modShopLabel>gtrr34_SKIRT2</modShopLabel>
           <linkedModels />
           <turnOffBones>
             <Item>misc_b</Item> 
@@ -58,8 +58,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>skyline_bnt1</modelName>
-          <modShopLabel>skyline_BNT1</modShopLabel>
+          <modelName>gtrr34_bnt1</modelName>
+          <modShopLabel>gtrr34_BNT1</modShopLabel>
           <linkedModels />
           <turnOffBones>
             <Item>bonnet</Item> 
@@ -75,8 +75,8 @@
           <allowBonnetSlide value="true" />
         </Item>
 	<Item>
-          <modelName>skyline_split1</modelName>
-          <modShopLabel>skyline_SPLIT1</modShopLabel>
+          <modelName>gtrr34_split1</modelName>
+          <modShopLabel>gtrr34_SPLIT1</modShopLabel>
           <linkedModels />
           <turnOffBones>
             <Item>misc_d</Item> 
@@ -92,8 +92,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>skyline_split2</modelName>
-          <modShopLabel>skyline_SPLIT2</modShopLabel>
+          <modelName>gtrr34_split2</modelName>
+          <modShopLabel>gtrr34_SPLIT2</modShopLabel>
           <linkedModels />
           <turnOffBones>
             <Item>misc_d</Item> 
@@ -109,8 +109,8 @@
           <allowBonnetSlide value="true" />
         </Item>
 	<Item>
-          <modelName>skyline_bumr1</modelName>
-          <modShopLabel>skyline_BUMR1</modShopLabel>
+          <modelName>gtrr34_bumr1</modelName>
+          <modShopLabel>gtrr34_BUMR1</modShopLabel>
           <linkedModels />
           <turnOffBones>
             <Item>misc_e</Item> 
@@ -126,8 +126,8 @@
           <allowBonnetSlide value="true" />
         </Item>
 	<Item>
-          <modelName>skyline_bumr2</modelName>
-          <modShopLabel>skyline_BUMR2</modShopLabel>
+          <modelName>gtrr34_bumr2</modelName>
+          <modShopLabel>gtrr34_BUMR2</modShopLabel>
           <linkedModels />
           <turnOffBones>
             <Item>misc_e</Item> 
@@ -143,8 +143,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>skyline_exh_1</modelName>
-          <modShopLabel>skyline_exh1</modShopLabel>
+          <modelName>gtrr34_exh_1</modelName>
+          <modShopLabel>gtrr34_exh1</modShopLabel>
           <linkedModels />
           <turnOffBones>
             <Item>misc_a</Item> 
@@ -704,7 +704,7 @@
         <zBias value="0.250000" />
         <pullCoronaIn value="false" />
       </reversingLightCorona>
-      <name>skyline</name>
+      <name>gtrr34</name>
     </Item>
     </Lights>
 </CVehicleModelInfoVarGlobal>

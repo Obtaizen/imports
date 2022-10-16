@@ -1,11 +1,11 @@
                            replace only the section below
 
-<kitName>17_asea_modkit</kitName>
+<kitName>17_asea2_modkit</kitName>
       <id value="24"/>
       <kitType>MKT_STANDARD</kitType>
       <visibleMods>
         <Item>
-          <modelName>asea_gtwing_1</modelName>
+          <modelName>asea2_gtwing_1</modelName>
           <modShopLabel>MNU_WING1</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -20,7 +20,7 @@
           <allowBonnetSlide value="true"/>
         </Item>
         <Item>
-          <modelName>asea_exh_1</modelName>
+          <modelName>asea2_exh_1</modelName>
           <modShopLabel>MNU_EXH5</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -37,8 +37,8 @@
           <allowBonnetSlide value="true"/>
         </Item>
         <Item>
-          <modelName>asea_stbomb1</modelName>
-          <modShopLabel>ASEA_WINGL</modShopLabel>
+          <modelName>asea2_stbomb1</modelName>
+          <modShopLabel>asea2_WINGL</modShopLabel>
           <modShopLabel/>
           <linkedModels/>
           <turnOffBones/>
@@ -53,8 +53,8 @@
           <allowBonnetSlide value="true"/>
         </Item>
         <Item>
-          <modelName>asea_stbomb2</modelName>
-          <modShopLabel>ASEA_WINGR</modShopLabel>
+          <modelName>asea2_stbomb2</modelName>
+          <modShopLabel>asea2_WINGR</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
           <type>VMT_ROOF</type>
@@ -68,7 +68,7 @@
           <allowBonnetSlide value="true"/>
         </Item>
         <Item>
-          <modelName>asea_chood_1</modelName>
+          <modelName>asea2_chood_1</modelName>
           <modShopLabel>MNU_BONC</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -85,8 +85,8 @@
           <allowBonnetSlide value="true"/>
         </Item>
         <Item>
-          <modelName>asea_stbomb4</modelName>
-          <modShopLabel>ASEA_SHOOD1</modShopLabel>
+          <modelName>asea2_stbomb4</modelName>
+          <modShopLabel>asea2_SHOOD1</modShopLabel>
           <linkedModels/>
           <turnOffBones>
             <Item>bonnet</Item>
@@ -102,8 +102,8 @@
           <allowBonnetSlide value="true"/>
         </Item>
         <Item>
-          <modelName>asea_hood_3</modelName>
-          <modShopLabel>ASEA_SHOOD2</modShopLabel>
+          <modelName>asea2_hood_3</modelName>
+          <modShopLabel>asea2_SHOOD2</modShopLabel>
           <linkedModels/>
           <turnOffBones>
             <Item>bonnet</Item>
@@ -119,10 +119,10 @@
           <allowBonnetSlide value="true"/>
         </Item>
         <Item>
-          <modelName>asea_croof_1</modelName>
+          <modelName>asea2_croof_1</modelName>
           <modShopLabel>MNU_ROOFC2</modShopLabel>
           <linkedModels>
-            <Item>asea_cboot_1</Item>
+            <Item>asea2_cboot_1</Item>
           </linkedModels>
           <turnOffBones>
             <Item>misc_b</Item>
@@ -139,10 +139,10 @@
           <allowBonnetSlide value="true"/>
         </Item>
         <Item>
-          <modelName>asea_stbomb5</modelName>
-          <modShopLabel>ASEA_SROOF</modShopLabel>
+          <modelName>asea2_stbomb5</modelName>
+          <modShopLabel>asea2_SROOF</modShopLabel>
           <linkedModels>
-            <Item>asea_stbomb6</Item>
+            <Item>asea2_stbomb6</Item>
           </linkedModels>
           <turnOffBones>
             <Item>misc_b</Item>
@@ -159,7 +159,7 @@
           <allowBonnetSlide value="true"/>
         </Item>
         <Item>
-          <modelName>asea_bumf_3</modelName>
+          <modelName>asea2_bumf_3</modelName>
           <modShopLabel>MNU_BUMF1</modShopLabel>
           <linkedModels/>
           <turnOffBones/>
@@ -174,7 +174,7 @@
           <allowBonnetSlide value="true"/>
         </Item>
         <Item>
-          <modelName>asea_bumf_2</modelName>
+          <modelName>asea2_bumf_2</modelName>
           <modShopLabel>MNU_BUMF4</modShopLabel>
           <linkedModels/>
           <turnOffBones>
@@ -191,8 +191,8 @@
           <allowBonnetSlide value="true"/>
         </Item>
         <Item>
-          <modelName>asea_bumf_4</modelName>
-          <modShopLabel>ASEA_FBUM</modShopLabel>
+          <modelName>asea2_bumf_4</modelName>
+          <modShopLabel>asea2_FBUM</modShopLabel>
           <linkedModels/>
           <turnOffBones>
             <Item>misc_c</Item>
@@ -208,10 +208,10 @@
           <allowBonnetSlide value="true"/>
         </Item>
         <Item>
-          <modelName>asea_stbomb3</modelName>
-          <modShopLabel>ASEA_SBUM</modShopLabel>
+          <modelName>asea2_stbomb3</modelName>
+          <modShopLabel>asea2_SBUM</modShopLabel>
           <linkedModels>
-            <Item>asea_stbomb7</Item>
+            <Item>asea2_stbomb7</Item>
           </linkedModels>
           <turnOffBones>
             <Item>misc_d</Item>
@@ -231,16 +231,16 @@
       </visibleMods>
       <linkMods>
         <Item>
-          <modelName>asea_cboot_1</modelName>
+          <modelName>asea2_cboot_1</modelName>
           <bone>boot</bone>
           <turnOffExtra value="false"/>
         </Item>
         <Item>
-          <modelName>asea_stbomb6</modelName>
+          <modelName>asea2_stbomb6</modelName>
           <bone>boot</bone>
           <turnOffExtra value="false"/>
         </Item>
         <Item>
-          <modelName>asea_stbomb7</modelName>
+          <modelName>asea2_stbomb7</modelName>
           <bone>chassis</bone>
           <turnOffExtra value="false"/>
