@@ -1,0 +1,184 @@
+
+
+  _______________________________________________________________  _____________
+ |                                                               ||             |
+|| Harley Davidson Fat Boy Lo Racing Bobber / THE LOST MC CUSTOM || version 1.1 ||
+ |_______________________________________________________________||_____________|
+
+
+Model : Test Drive Unlimited 2
+
+GTA IV : POHER/MR.POHER
+GTA V : CHOCOSKIZO
+
+Changelog 1.1 :
+
+*Fix wheels (added bikedisc_f and bikedisc_r now you can change wheels at los santos customs)
+* Fixed dirt on seat
+
+Replace : Hexer
+
+Paint 1 : Body
+Paint 4 : Rims
+
+2 extras : 
+* headlight bubble cover
+* license plate
+
+FEATURE :
+LODS : L0/L1/L2
+2 SEATS
+DIALS (added , hexer originally don't have dials)
+VIBRATING EXHAUSTS 
+HANDS ON HANDLEBARS
+BURNT AREA
+BULLET HOLES 
+DIRT
+SCRATCHES
+CUSTOM COLLISIONS
+REAL REFLECTION  MIRRORS (pretty useless lol)
+ ___________________________________
+|___________________________________|
+
+Use "mods" folder and backup your files..!!
+
+
+Installation Path : [GAME FOLDER]\mods\update\x64\dlcpacks\patchday3ng\dlc.rpf\x64\levels\gta5\vehicles.rpf
+
+Vehicles.meta Path (TO ADD WORKING DIALS) : [GAME FOLDER]\mods\update\update.rpf\common\data\levels\gta5
+
+OR IF YOUR VEHISCLES.META IS ALREADY MODDED ADD THIS IN : 
+
+
+HEXER DATA : (i added this line for information : <dashboardType>VDT_ZTYPE</dashboardType> )
+
+
+<Item>
+      <modelName>hexer</modelName>
+      <txdName>hexer</txdName>
+      <handlingId>HEXER</handlingId>
+      <gameName>HEXER</gameName>
+      <vehicleMakeName>LCC</vehicleMakeName>
+      <expressionDictName>null</expressionDictName>
+      <expressionName>null</expressionName>
+      <animConvRoofDictName>null</animConvRoofDictName>
+      <animConvRoofName>null</animConvRoofName>
+      <animConvRoofWindowsAffected />
+      <ptfxAssetName>null</ptfxAssetName>
+      <audioNameHash />
+      <layout>LAYOUT_BIKE_FREEWAY</layout>
+      <coverBoundOffsets>BIKE2_COVER_OFFSET_INFO</coverBoundOffsets>
+	  <POVTuningInfo>HEXER_POV_TUNING</POVTuningInfo>
+      <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
+      <scenarioLayout />
+      <cameraName>FOLLOW_UPRIGHT_BIKE_CAMERA</cameraName>
+      <aimCameraName>BIKE_AIM_CAMERA</aimCameraName>
+      <bonnetCameraName>BIKE_HEXER_POV_CAMERA</bonnetCameraName>
+      <povCameraName>BIKE_HEXER_POV_CAMERA</povCameraName>
+      <FirstPersonDriveByIKOffset x="0.000000" y="-0.060000" z="0.000000" />
+      <FirstPersonDriveByUnarmedIKOffset x="0.000000" y="0.000000" z="0.000000" />
+	  <FirstPersonProjectileDriveByIKOffset x="0.000000" y="0.000000" z="0.000000" />
+	  <FirstPersonProjectileDriveByPassengerIKOffset x="0.000000" y="0.000000" z="0.000000" />
+	  <FirstPersonProjectileDriveByRearLeftIKOffset x="0.000000" y="0.000000" z="0.000000" />
+	  <FirstPersonProjectileDriveByRearRightIKOffset x="0.000000" y="0.000000" z="0.000000" />
+	  <FirstPersonDriveByLeftPassengerIKOffset x="0.000000" y="-0.060000" z="-0.030000" />
+	  <FirstPersonDriveByRightPassengerIKOffset x="0.000000" y="0.000000" z="0.000000" />
+	  <FirstPersonDriveByRightRearPassengerIKOffset x="0.000000" y="0.000000" z="0.000000" />
+	  <FirstPersonDriveByLeftPassengerUnarmedIKOffset x="0.000000" y="0.000000" z="0.000000" />
+	  <FirstPersonDriveByRightPassengerUnarmedIKOffset x="0.000000" y="0.000000" z="0.000000" />
+	  <FirstPersonMobilePhoneOffset x="0.155000" y="0.315000" z="0.520000" />
+      <FirstPersonPassengerMobilePhoneOffset x="0.136000" y="0.223000" z="0.425000" />
+      <PovCameraOffset x="0.000000" y="0.000000" z="0.000000" />
+      <PovCameraVerticalAdjustmentForRollCage value="0.000000" />
+      <PovPassengerCameraOffset x="0.000000" y="0.000000" z="0.000000" />
+      <PovRearPassengerCameraOffset x="0.000000" y="0.000000" z="0.000000" />
+      <vfxInfoName>VFXVEHICLEINFO_MOTORBIKE_GENERIC</vfxInfoName>
+      <shouldUseCinematicViewMode value="true" />
+      <shouldCameraTransitionOnClimbUpDown value="false" />
+      <shouldCameraIgnoreExiting value="false" />
+      <AllowPretendOccupants value="false" />
+      <AllowJoyriding value="true" />
+      <AllowSundayDriving value="true" />
+      <AllowBodyColorMapping value="true" />
+      <wheelScale value="0.240300" />
+      <wheelScaleRear value="0.231300" />
+      <dirtLevelMin value="0.000000" />
+      <dirtLevelMax value="0.700000" />
+      <envEffScaleMin value="0.000000" />
+      <envEffScaleMax value="1.000000" />
+      <envEffScaleMin2 value="0.000000" />
+      <envEffScaleMax2 value="1.000000" />
+      <damageMapScale value="0.600000" />
+      <damageOffsetScale value="1.000000" />
+      <diffuseTint value="0x00FFFFFF" />
+      <steerWheelMult value="0.600000" />
+      <HDTextureDist value="5.000000" />
+      <lodDistances content="float_array">
+        15.000000
+        30.000000
+        50.000000
+        100.000000
+        500.000000
+        500.000000
+      </lodDistances>
+      <minSeatHeight value="10" />
+      <identicalModelSpawnDistance value="80" />
+      <maxNumOfSameColor value="10" />
+      <defaultBodyHealth value="1000.000000" />
+      <pretendOccupantsScale value="1.000000" />
+      <visibleSpawnDistScale value="1.000000" />
+      <trackerPathWidth value="2.000000" />
+      <weaponForceMult value="1.000000" />
+      <frequency value="30" />
+      <swankness>SWANKNESS_2</swankness>
+      <maxNum value="5" />
+      <flags>FLAG_NO_BOOT FLAG_IGNORE_ON_SIDE_CHECK FLAG_AVERAGE_CAR FLAG_HEADLIGHTS_USE_ACTUAL_BONE_POS</flags>
+      <type>VEHICLE_TYPE_BIKE</type>
+      <plateType>VPT_BACK_PLATES</plateType>
+	  <dashboardType>VDT_ZTYPE</dashboardType>
+      <vehicleClass>VC_MOTORCYCLE</vehicleClass>
+      <wheelType>VWT_BIKE</wheelType>
+      <trailers />
+      <additionalTrailers />
+      <drivers />
+      <extraIncludes />
+      <doorsWithCollisionWhenClosed />
+      <driveableDoors />
+      <bumpersNeedToCollideWithMap value="false" />
+      <needsRopeTexture value="false" />
+      <requiredExtras />
+      <rewards />
+      <cinematicPartCamera>
+        <Item>WHEEL_REAR_LEFT_CAMERA</Item>
+        <Item>WHEEL_REAR_RIGHT_CAMERA</Item>
+      </cinematicPartCamera>
+      <NmBraceOverrideSet>Bike</NmBraceOverrideSet>
+      <buoyancySphereOffset x="0.000000" y="0.000000" z="0.000000" />
+      <buoyancySphereSizeScale value="1.000000" />
+      <pOverrideRagdollThreshold type="NULL" />
+	  <firstPersonDrivebyData>
+        <Item>BIKE_HEXER_FRONT</Item>
+        <Item>BIKE_BAGGER_REAR</Item>
+      </firstPersonDrivebyData>
+    </Item>
+	
+	
+	
+
+IN txdRelationships SECTION : 
+
+
+<Item>
+      <parent>vehicles_btype_interior</parent>
+      <child>hexer</child>
+    </Item>
+
+
+If you are a modder , from beginner to pro-modder , or if you want to learn modding in V storymode you can join us in this group : 
+
+https://www.facebook.com/groups/gtavmoddersgroup/
+
+Don't come if you want money drops online , or showcase of your pics and videos , other groups are made for this ,if you do you'll be banned,  thanks .
+
+Enjoy
+

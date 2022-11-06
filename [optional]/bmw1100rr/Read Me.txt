@@ -1,0 +1,61 @@
+
+  _________________________  _____________
+ |                         ||             |
+|| BMW 1100R STREETFIGHTER || version 2.0 ||
+ |_________________________||_____________|
+ 
+Model : Model free, remade, parts SBK, TDU2, GTA-4, MudFim gamemodels.ru 
+
+GTA IV : POHER/MR.POHER
+GTA V : CHOCOSKIZO
+
+ChangeloG 2.0 :
+* model reworked
+* vibrating engine/exhausts
+* added passenger seat
+* fixed front wheel
+* dirtmapped wheels
+* fixed chrome
+* fixed lot of materials and bumpmaps
+* model looks way better and realistic now
+
+Replace : Carbonrs
+
+Paint 1 : Body
+Paint 2 : Body 2
+Paint 4 : Rim Line
+
+5 extras : 
+* sticker 1
+* sticker 2
+* nitro bottle
+* emissive eyeglows headlight
+* mirrors
+
+FEATURE :
+LODS : L0/L1/L2
+DIALS
+HANDS ON HANDLEBARS
+BURNT AREA
+BULLET HOLES 
+DIRT
+SCRATCHES
+CUSTOM COLLISIONS
+REAL REFLECTION  MIRRORS
+2 SEATS
+
+
+
+ ___________________________________
+|___________________________________|
+
+Use "mods" folder and backup your files..!!
+
+INSTALLATION : 
+
+[GAME FOLDER]/mods/update/x64e/levels/gta5/vehicles.rpf
+
+
+
+Enjoy
+
