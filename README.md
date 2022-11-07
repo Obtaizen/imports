@@ -12,6 +12,8 @@ I made a .txt with the snippet of cars to make it easier so you can copy + paste
 
 * These vehicles are replaces of current GTA Online / Story Vehicles. If these can be converted into add-ons and you would like to contribute, make a PR and it will be greatly appreciated!
 
+* Phantom was placed into a Zip File given the size of the assets.
+
 ### A bunch of vehicles that NoPixel use.
 
 ### Link to where I got the vehicles from https://pastebin.com/jsvw46cn this includes each GTA 5 Mods link
