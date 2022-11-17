@@ -1327,4 +1327,14 @@ QBShared.Vehicles = {
 		['hash'] = `lwgtr`,
 		['shop'] = 'luxury',
 	},
+		-- R35 Liberty Walk
+	['nisr32'] = {
+		['name'] = 'R32 Nismo',
+		['brand'] = 'Nissan',
+		['model'] = 'nisr32',
+		['price'] = 99999,
+		['categoryLabel'] = 'Sports',
+		['hash'] = `nisr32`,
+		['shop'] = 'luxury',
+	},
 }
