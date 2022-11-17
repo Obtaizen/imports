@@ -1307,7 +1307,7 @@ QBShared.Vehicles = {
 		['hash'] = `mgt18lb`,
 		['shop'] = 'luxury',
 	},
-	-- Maserati GranTurismo Liberty Walk
+	-- Pallet Car
 	['palletcar'] = {
 		['name'] = 'Pallet Lifter SS',
 		['brand'] = 'Flywheels',
@@ -1315,6 +1315,16 @@ QBShared.Vehicles = {
 		['price'] = 99999,
 		['categoryLabel'] = 'Off-Road',
 		['hash'] = `palletcar`,
+		['shop'] = 'luxury',
+	},	
+	-- R35 Liberty Walk
+	['lwgtr'] = {
+		['name'] = 'GTR R35 Liberty Walk',
+		['brand'] = 'Nissan',
+		['model'] = 'lwgtr',
+		['price'] = 99999,
+		['categoryLabel'] = 'Sports',
+		['hash'] = `lwgtr`,
 		['shop'] = 'luxury',
 	},
 }
