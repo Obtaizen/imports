@@ -1337,4 +1337,14 @@ QBShared.Vehicles = {
 		['hash'] = `nisr32`,
 		['shop'] = 'luxury',
 	},
+	-- Delorean DMC12
+	['dmc12'] = {
+		['name'] = 'DMC 12',
+		['brand'] = 'Delorean',
+		['model'] = 'nisr32',
+		['price'] = 99999,
+		['categoryLabel'] = 'Sports',
+		['hash'] = `nisr32`,
+		['shop'] = 'luxury',
+	},
 }
